@@ -61,18 +61,6 @@
 
 ---
 
-### GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ali1140&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=36BCF7" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali1140&theme=tokyonight&hide_border=true&stroke=0000&background=1A1B27" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali1140&layout=compact&theme=tokyonight&hide_border=true&title_color=36BCF7" alt="Top Languages" />
-</p>
-
----
-
 ### Proyek Pilihan (Highlights)
 
 | Proyek | Kategori | Deskripsi Singkat |
