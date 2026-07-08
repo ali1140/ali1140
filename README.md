@@ -13,20 +13,19 @@
   <img src="https://img.shields.io/badge/Lab-M--IOT%20ITS-orange?style=flat-square&logo=internet-of-things" />
 </p>
 
-### 👨‍💻 Tentang Saya
+### Tentang Saya
 
-*   🎓 Mahasiswa aktif **Teknik Komputer / Informatika** di **Institut Teknologi Sepuluh Nopember (ITS)**.
-*   🔬 Peneliti di Laboratorium **Multimedia and Internet of Things (M-IOT)**.
-*   🌱 Saat ini sedang mendalami arsitektur **Microservices**, lanjutan **Deep Learning**, dan integrasi **Hardware SAKTI**.
-*   💬 Tanya saya tentang: **Flutter**, **ESP32/Arduino**, **Python**, atau **Computer Vision**.
-*   ⚡ *Fakta Unik:* Saya suka menggabungkan kode tingkat tinggi (AI/Mobile) dengan mikrokontroler tingkat rendah (C/C++).
+*   Mahasiswa aktif **Teknik Komputer** di **Institut Teknologi Sepuluh Nopember (ITS)**.
+*   Peneliti di Laboratorium **Multimedia and Internet of Things (M-IOT)**.
+*   Tanya saya tentang: **Flutter**, **ESP32/Arduino**, **Python**, atau **Computer Vision**.
+*   *Fakta Unik:* Saya suka menggabungkan kode tingkat tinggi (AI/Mobile) dengan mikrokontroler tingkat rendah (C/C++).
 
 ---
 
-### 🛠️ Tech Stack & Senjata Andalan
+### Tech Stack & Senjata Andalan
 
 <details open>
-  <summary><b>📱 Mobile & Web Development</b></summary>
+  <summary><b>Mobile & Web Development</b></summary>
   <br/>
   <p align="left">
     <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
@@ -38,7 +37,7 @@
 </details>
 
 <details open>
-  <summary><b>🔌 Hardware & IoT (Embedded Systems)</b></summary>
+  <summary><b>Hardware & IoT (Embedded Systems)</b></summary>
   <br/>
   <p align="left">
     <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -50,7 +49,7 @@
 </details>
 
 <details open>
-  <summary><b>🧠 Machine Learning & Data</b></summary>
+  <summary><b>Machine Learning & Data</b></summary>
   <br/>
   <p align="left">
     <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
@@ -62,28 +61,28 @@
 
 ---
 
-### 📈 GitHub Analytics
+### GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ali1140&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=36BCF7" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali1140&theme=tokyonight&hide_border=true&stroke=0000&background=1A1B27" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ali1140&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=36BCF7" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali1140&theme=tokyonight&hide_border=true&stroke=0000&background=1A1B27" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali1140&layout=donut&theme=tokyonight&hide_border=true&title_color=36BCF7" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali1140&layout=compact&theme=tokyonight&hide_border=true&title_color=36BCF7" alt="Top Languages" />
 </p>
 
 ---
 
-### 🌟 Proyek Pilihan (Highlights)
+### Proyek Pilihan (Highlights)
 
 | Proyek | Kategori | Deskripsi Singkat |
 |---|---|---|
-| 📱 **[Mobile App CCTV-MIOT](https://github.com/ali1140/mobile_app_CCTV-MIOT)** | `Mobile` `IoT` | Sistem monitoring CCTV terintegrasi dengan ESP32-CAM dan arsitektur MVVM di Flutter. |
-| 📈 **[Prediksi Harga Saham](https://github.com/ali1140/Prediksi_HargaSaham_using-BILSTM-CNN)** | `AI/ML` | Model prediksi saham perusahaan teknologi menggunakan hybrid Deep Learning BiLSTM-CNN. |
-| 🃏 **[Go-Fish & BlackJack Vision](https://github.com/ali1140/Go-fish-BlackJack-using-openCV-and-CNN-for-machine-learning)** | `Computer Vision` | Pengenalan kartu remi real-time menggunakan kamera, OpenCV, dan TensorFlow Keras. |
-| 🕹️ **[Console Tic-Tac-Toe](https://github.com/ali1140/TicTacToe-C)** | `C` `CLI` | Game klasik interaktif di terminal dengan mode Player vs Bot yang dibangun dengan bahasa C murni. |
+| **[Mobile App CCTV-MIOT](https://github.com/ali1140/mobile_app_CCTV-MIOT)** | `Mobile` `IoT` | Sistem monitoring CCTV terintegrasi dengan ESP32-CAM dan arsitektur MVVM di Flutter. |
+| **[Prediksi Harga Saham](https://github.com/ali1140/Prediksi_HargaSaham_using-BILSTM-CNN)** | `AI/ML` | Model prediksi saham perusahaan teknologi menggunakan hybrid Deep Learning BiLSTM-CNN. |
+| **[Go-Fish & BlackJack Vision](https://github.com/ali1140/Go-fish-BlackJack-using-openCV-and-CNN-for-machine-learning)** | `Computer Vision` | Pengenalan kartu remi real-time menggunakan kamera, OpenCV, dan TensorFlow Keras. |
+| **[Console Tic-Tac-Toe](https://github.com/ali1140/TicTacToe-C)** | `C` `CLI` | Game klasik interaktif di terminal dengan mode Player vs Bot yang dibangun dengan bahasa C murni. |
 
 <br/>
 <p align="center">
-  <i>✨ Dibuat dengan antusiasme dan baris kode. Hubungi saya di GitHub! ✨</i>
+  <i>Dibuat dengan antusiasme dan baris kode. Hubungi saya di GitHub!</i>
 </p>
