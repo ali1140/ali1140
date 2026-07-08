@@ -77,10 +77,12 @@
 
 | Proyek | Kategori | Deskripsi Singkat |
 |---|---|---|
-| **[Mobile App CCTV-MIOT](https://github.com/ali1140/mobile_app_CCTV-MIOT)** | `Mobile` `IoT` | Sistem monitoring CCTV terintegrasi dengan ESP32-CAM dan arsitektur MVVM di Flutter. |
-| **[Prediksi Harga Saham](https://github.com/ali1140/Prediksi_HargaSaham_using-BILSTM-CNN)** | `AI/ML` | Model prediksi saham perusahaan teknologi menggunakan hybrid Deep Learning BiLSTM-CNN. |
-| **[Go-Fish & BlackJack Vision](https://github.com/ali1140/Go-fish-BlackJack-using-openCV-and-CNN-for-machine-learning)** | `Computer Vision` | Pengenalan kartu remi real-time menggunakan kamera, OpenCV, dan TensorFlow Keras. |
-| **[Console Tic-Tac-Toe](https://github.com/ali1140/TicTacToe-C)** | `C` `CLI` | Game klasik interaktif di terminal dengan mode Player vs Bot yang dibangun dengan bahasa C murni. |
+| **[Kendali AC Gesture Tangan](https://github.com/ali1140/Kendali-AC-menggunakan-Gesture-Tangan-pada-Raspberry-Pi-dengan-transmisi-Infrared-Melalui-EZP32)** | `IoT` `Computer Vision` | Mengontrol AC via Raspberry Pi dengan gestur tangan dan transmisi infrared ESP32. |
+| **[Kendali AC BLYNK](https://github.com/ali1140/Kontrol-AC-Multibrand-Menggunakan-aplikasi-mobile-BLYNK)** | `IoT` `Mobile` | Sistem remote AC multi-merek berbasis mikrokontroler menggunakan aplikasi mobile Blynk. |
+| **[Hardware SAKTI](https://github.com/ali1140/SouceCode_Hardware-SAKTI)** | `Embedded` `C++` | Source code mikrokontroler perangkat keras SAKTI dengan protokol MQTT untuk ekosistem IoT. |
+| **[Go-Fish & BlackJack Vision](https://github.com/ali1140/Go-fish-BlackJack-using-openCV-and-CNN-for-machine-learning)** | `Computer Vision` | Pengenalan kartu remi secara real-time dengan kamera, OpenCV, dan Deep Learning CNN. |
+| **[Sistem Absensi (WinnieCode)](https://github.com/ali1140/absensi_project)** | `Web` `Node.js` | Proyek pengembangan aplikasi sistem absensi berbasis web dengan arsitektur modern. |
+| **[Mobile App CCTV-MIOT](https://github.com/ali1140/mobile_app_CCTV-MIOT)** | `Mobile` `IoT` | Sistem monitoring CCTV terintegrasi dengan node ESP32-CAM (dikembangkan di Lab M-IOT). |
 
 <br/>
 <p align="center">
