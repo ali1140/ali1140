@@ -1,42 +1,89 @@
-# Hi there! 👋 I'm Ali Akbar Alhabsyi
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Mobile+App+Developer;Embedded+Systems+Enthusiast;Machine+Learning+Explorer)](https://git.io/typing-svg)
-
-I am an Informatics / Computer Engineering student at **Institut Teknologi Sepuluh Nopember (ITS)** and an active researcher at the **Multimedia and Internet of Things (M-IOT) Lab**. I am passionate about bridging the gap between hardware and software, specializing in mobile development, IoT, and artificial intelligence.
-
-## 🚀 About Me
-
-- 📱 **Mobile Development**: Crafting seamless cross-platform applications using **Flutter** and **Dart**.
-- 🔌 **Embedded Systems & IoT**: Working with **ESP32**, Arduino, sensors, and the **MQTT** protocol.
-- 🧠 **Machine Learning**: Building prediction models and computer vision tools using **Python**, **OpenCV**, **TensorFlow/Keras** (CNN, BiLSTM).
-- 🎓 **Education**: FTEIC - ITS (Institut Teknologi Sepuluh Nopember).
-
-## 🛠️ Tech Stack & Tools
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3&height=250&section=header&text=Ali%20Akbar%20Alhabsyi&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20%40%20ITS%20%7C%20Mobile%20Dev%20%7C%20IoT&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%" />
 </p>
 
-## 📊 GitHub Stats
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=Bridging+Hardware+and+Software;Flutter+Enthusiast;Building+Smart+IoT+Solutions;Exploring+Deep+Learning" alt="Typing SVG" />
+  </a>
+</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ali1140&show_icons=true&theme=radium&hide_border=true&count_private=true" alt="ali1140's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali1140&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Computer%20Engineering-FTEIC%20ITS-blue?style=flat-square&logo=google-scholar" />
+  <img src="https://img.shields.io/badge/Lab-M--IOT%20ITS-orange?style=flat-square&logo=internet-of-things" />
 </p>
 
-## 💡 Highlighted Projects
+### 👨‍💻 Tentang Saya
 
-*   **[Mobile App CCTV-MIOT](https://github.com/ali1140/mobile_app_CCTV-MIOT)**: A Flutter mobile application built for visual monitoring and automatic intruder detection via ESP32-CAM nodes.
-*   **[Prediksi Harga Saham (BiLSTM-CNN)](https://github.com/ali1140/Prediksi_HargaSaham_using-BILSTM-CNN)**: Stock price prediction using a hybrid Deep Learning architecture.
-*   **[Go Fish & BlackJack Machine Learning](https://github.com/ali1140/Go-fish-BlackJack-using-openCV-and-CNN-for-machine-learning)**: Real-time playing card recognition using CNNs and OpenCV.
-*   **[TicTacToe-C](https://github.com/ali1140/TicTacToe-C)**: A classic, fully-functional terminal-based Tic-Tac-Toe game written in C.
+*   🎓 Mahasiswa aktif **Teknik Komputer / Informatika** di **Institut Teknologi Sepuluh Nopember (ITS)**.
+*   🔬 Peneliti di Laboratorium **Multimedia and Internet of Things (M-IOT)**.
+*   🌱 Saat ini sedang mendalami arsitektur **Microservices**, lanjutan **Deep Learning**, dan integrasi **Hardware SAKTI**.
+*   💬 Tanya saya tentang: **Flutter**, **ESP32/Arduino**, **Python**, atau **Computer Vision**.
+*   ⚡ *Fakta Unik:* Saya suka menggabungkan kode tingkat tinggi (AI/Mobile) dengan mikrokontroler tingkat rendah (C/C++).
 
 ---
-*"Connecting the physical world with intelligent software."*
+
+### 🛠️ Tech Stack & Senjata Andalan
+
+<details open>
+  <summary><b>📱 Mobile & Web Development</b></summary>
+  <br/>
+  <p align="left">
+    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  </p>
+</details>
+
+<details open>
+  <summary><b>🔌 Hardware & IoT (Embedded Systems)</b></summary>
+  <br/>
+  <p align="left">
+    <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white" />
+    <img src="https://img.shields.io/badge/ESP32-%23E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white" />
+    <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
+  </p>
+</details>
+
+<details open>
+  <summary><b>🧠 Machine Learning & Data</b></summary>
+  <br/>
+  <p align="left">
+    <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+    <img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  </p>
+</details>
+
+---
+
+### 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ali1140&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=36BCF7" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali1140&theme=tokyonight&hide_border=true&stroke=0000&background=1A1B27" alt="GitHub Streak" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali1140&layout=donut&theme=tokyonight&hide_border=true&title_color=36BCF7" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+### 🌟 Proyek Pilihan (Highlights)
+
+| Proyek | Kategori | Deskripsi Singkat |
+|---|---|---|
+| 📱 **[Mobile App CCTV-MIOT](https://github.com/ali1140/mobile_app_CCTV-MIOT)** | `Mobile` `IoT` | Sistem monitoring CCTV terintegrasi dengan ESP32-CAM dan arsitektur MVVM di Flutter. |
+| 📈 **[Prediksi Harga Saham](https://github.com/ali1140/Prediksi_HargaSaham_using-BILSTM-CNN)** | `AI/ML` | Model prediksi saham perusahaan teknologi menggunakan hybrid Deep Learning BiLSTM-CNN. |
+| 🃏 **[Go-Fish & BlackJack Vision](https://github.com/ali1140/Go-fish-BlackJack-using-openCV-and-CNN-for-machine-learning)** | `Computer Vision` | Pengenalan kartu remi real-time menggunakan kamera, OpenCV, dan TensorFlow Keras. |
+| 🕹️ **[Console Tic-Tac-Toe](https://github.com/ali1140/TicTacToe-C)** | `C` `CLI` | Game klasik interaktif di terminal dengan mode Player vs Bot yang dibangun dengan bahasa C murni. |
+
+<br/>
+<p align="center">
+  <i>✨ Dibuat dengan antusiasme dan baris kode. Hubungi saya di GitHub! ✨</i>
+</p>
